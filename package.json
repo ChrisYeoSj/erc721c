@@ -3,13 +3,15 @@
   "description": "Test for Limitbreak's erc721c contract",
   "version": "0.0.1",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris Yeo",
   "license": "ISC",
   "dependencies": {
-    "@limitbreak/creator-token-contracts": "^1.1.2"
+    "@limitbreak/creator-token-standards": "^3.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "@openzeppelin/contracts": "4.8.3",
+    "hardhat": "^2.22.10"
   }
 }
