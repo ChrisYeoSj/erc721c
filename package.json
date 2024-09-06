@@ -1,0 +1,15 @@
+{
+  "name": "erc721c",
+  "description": "Test for Limitbreak's erc721c contract",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Yeo",
+  "license": "ISC",
+  "dependencies": {
+    "@limitbreak/creator-token-contracts": "^1.1.2"
+  }
+}
